@@ -1,9 +1,6 @@
-# qq-chat-exporter-and-report-generator
-基于 https://github.com/QQBackup/qq-win-db-key 的qq聊天记录导出与年度总结整理工具
-
 # QQ 群年度报告生成工具
 
-这是一组用于从 QQ NT 聊天数据库导出群聊纯文字记录、统计年度数据，并生成年度报告网页海报的 Python 脚本。
+这是一组基于 https://github.com/QQBackup/qq-win-db-key 用于从 QQ NT 聊天数据库导出群聊纯文字记录、统计年度数据，并生成年度报告网页海报的 Python 脚本。
 
 ## 功能概览
 
